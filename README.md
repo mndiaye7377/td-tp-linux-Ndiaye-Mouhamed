@@ -1,4 +1,4 @@
-Nom : Mouhamed
-Ndiaye : Ndiaye
-Classe : DBE
-Distribution : Ubuntu
+# Nom : Mouhamed
+# Prenom : Ndiaye
+# Classe : DBE
+# Distribution : Ubuntu
