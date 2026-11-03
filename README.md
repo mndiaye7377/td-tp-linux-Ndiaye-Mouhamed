@@ -1,1 +1,4 @@
-# td-tp-linux-Mouhamed-Ndiaye
+Nom : Mouhamed
+Ndiaye : Ndiaye
+Classe : DBE
+Distribution : Ubuntu
